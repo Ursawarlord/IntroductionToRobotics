@@ -68,7 +68,7 @@ void loop() {
   ledGreenBrightness = map(potGreenValue, 0, maxAnalogValue, 0, maxBrightnessValue);
   ledBlueBrightness = map(potBlueValue, 0, maxAnalogValue, 0, maxBrightnessValue);
 
-  
+  // The LEDs are connected on PWM output digital pins
   analogWrite(redPin, ledRedBrightness);
   analogWrite(greenPin, ledGreenBrightness);
   analogWrite(bluePin, ledBlueBrightness);
