@@ -1,5 +1,5 @@
 ## ``` IntroductionToRobotics```
-> Unibuc Robotics: third year optional course
+> Unibuc Robotics: Optional course in 2021-2022 academic year
 
 ---
 
