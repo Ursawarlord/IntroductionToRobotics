@@ -7,7 +7,8 @@
 
 
 
-- [x] Homework 1 (21-28 October 2021)
+- [x] Homework 1 (21-28 October 2021): 
+  #### RGB led and Potentiometers
 - **Technical Task**: Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done
 with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected
 to the led.
