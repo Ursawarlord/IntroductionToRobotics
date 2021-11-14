@@ -71,7 +71,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
   
   <summary> Homework 3 (4th November-11th November 2021) </summary>
   
- #### EMP detector
+ #### EMF detector
 + **Technical Task**:Basically, we’re building the ghost detector (aka an EMF - electromagneticfield  -  detector).   It’s  super  easy  to  build,  and  you  will  have  to  look  on  the internet how to do it.  Basic requirements: should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity
   
 |**Components**:|1 buzzer|7 segment display|resistors|and wires (per logic)|
@@ -81,7 +81,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
 |---|---|
   
 + Picture of scene:![image](https://user-images.githubusercontent.com/19687103/141162684-2a2d8c09-857f-4b2a-b286-bbaf602f6cc8.png)
-)
+
 
   </details>
 
