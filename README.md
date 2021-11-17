@@ -90,5 +90,23 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
   
   
   
+<details>
   
+  <summary> Homework 4 (12th November-17th November 2021) </summary>
   
+ #### 4 digit 7-segment display, shift register and a joystick  
++ **Technical Task**:Basically, we’re building the ghost detector (aka an EMF - electromagneticfield  -  detector).   It’s  super  easy  to  build,  and  you  will  have  to  look  on  the internet how to do it.  Basic requirements: should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity
+  
+|**Components**:|joystick|4 digit 7-segment display|74hc595 shift register|resistors|and wires (per logic)|
+|---|---|---|---|---|---|
+  
+|**Video showcase on youtube**|[link](https://youtu.be/Z_ZtWs0LHWk)|
+|---|---|
+  
++ Picture of scene: ![WhatsApp Image 2021-11-17 at 11 21 59 PM](https://user-images.githubusercontent.com/19687103/142285960-82c99e21-5e9f-4ac1-909d-a858a21d74d7.jpeg)
+
+
+
+  </details>
+
+---
