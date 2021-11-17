@@ -103,7 +103,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
 |**Video showcase on youtube**|[link](https://youtu.be/Z_ZtWs0LHWk)|
 |---|---|
   
-+ Picture of scene: ![WhatsApp Image 2021-11-17 at 11 21 59 PM](https://user-images.githubusercontent.com/19687103/142285960-82c99e21-5e9f-4ac1-909d-a858a21d74d7.jpeg)
++ Picture of scene: ![image](https://user-images.githubusercontent.com/19687103/142285960-82c99e21-5e9f-4ac1-909d-a858a21d74d7.jpeg)
 
 
 
