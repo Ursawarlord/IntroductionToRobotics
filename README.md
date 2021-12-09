@@ -8,9 +8,9 @@
   <summary> Homework 1 (21-28 October 2021) </summary>
   
  #### RGB led and Potentiometers
-+ **Technical Task**: Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done
-with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected
-to the led.
++ **Technical details**: 
+  
+  Homework is using 3 separate potentiometers in controlling each of the color of the RGB led (Red, Green and Blue) done with digital electronics (Arduino).
   
 |**Components**:|1 RBG led| 3 potentiometers| resistors|and wires (per logic)|
 |---|---|---|---|---|  
@@ -37,8 +37,7 @@ to the led.
   <summary> Homework 2 (27th October-3rd November 2021) </summary>
   
  #### Crosswalk simulator: traffic lights for people and cars
-+ **Technical Task**:Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green)
-and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See the states it needs to go through. If anything is not clear, ask. Also, see the uploaded video (the intervals are different, but the states flow is the same). It’s a traffic lights system for people and cars - don’t overthink it.
++ **Technical description**: Homework uses 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green). It goes a few states in cycle completing the crosswalk simulator.
   
 |**Components**:|5 LEDs|1 button|1 buzzer|resistors|and wires (per logic)|
 |---|---|---|---|---|---|
@@ -72,7 +71,7 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
   <summary> Homework 3 (4th November-11th November 2021) </summary>
   
  #### EMF detector
-+ **Technical Task**:Basically, we’re building the ghost detector (aka an EMF - electromagneticfield  -  detector).   It’s  super  easy  to  build,  and  you  will  have  to  look  on  the internet how to do it.  Basic requirements: should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity
++ **Technical description**: Homework 3 builds a ghost detector which must detect EMFs - electromagneticfields and prints the value on the 7-segment display.  
   
 |**Components**:|1 buzzer|7 segment display|resistors|and wires (per logic)|
 |---|---|---|---|---|
@@ -95,7 +94,9 @@ and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See
   <summary> Homework 4 (12th November-17th November 2021) </summary>
   
  #### 4 digit 7-segment display, shift register and a joystick  
-+ **Technical Task**:The current homework involves using a joystick in setting the values on each digit of a 4-digit 7-segment display connected to a shift register 74hc595. For maximum grade, you must use interrupts, and for bonus you can save the last value in eeprom.
++ **Technical description**:The current homework involves using a joystick in setting the values on each digit of a 4-digit 7-segment display connected to a shift register 74hc595. It also uses interrupts and saves the last value in eeprom.
+  
+  
   
 |**Components**:|joystick|4 digit 7-segment display|74hc595 shift register|resistors|and wires (per logic)|
 |---|---|---|---|---|---|
